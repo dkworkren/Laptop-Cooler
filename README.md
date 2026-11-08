@@ -11,6 +11,8 @@ My laptop has been crashing a lot recently and I have a feeling that it is becau
 Just plug in a USB-C cable to the cooler and it will turn on automatically, to turn it off please gently unplug the cable from the cooler.
 
 Documentations and Print Specs
+<img width="1600" height="1200" alt="HC SKETCH (11)" src="https://github.com/user-attachments/assets/f36e0a34-76a2-4ce6-93e7-f1cdcb83c3bf" />
+
 <img width="1004" height="489" alt="Laptop Cooler (1)" src="https://github.com/user-attachments/assets/ce4dd238-6f11-42ef-b603-6c0cd2f35a84" />
 <img width="1004" height="489" alt="Laptop Cooler (2)" src="https://github.com/user-attachments/assets/ab4c6c34-ab2d-460f-9538-461ab1b3128f" />
 
