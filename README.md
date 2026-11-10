@@ -11,8 +11,13 @@ My laptop has been crashing a lot recently and I have a feeling that it is becau
 Just plug in a USB-C cable to the cooler and it will turn on automatically, to turn it off please gently unplug the cable from the cooler.
 
 Documentations and Print Specs
-<img width="1600" height="1200" alt="HC SKETCH (11)" src="https://github.com/user-attachments/assets/f36e0a34-76a2-4ce6-93e7-f1cdcb83c3bf" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-09 at 22 48 22 (1)" src="https://github.com/user-attachments/assets/477d63ed-d287-4189-949d-510777d6b4eb" />
+<img width="921" height="1600" alt="WhatsApp Image 2026-11-09 at 22 57 15 (2)" src="https://github.com/user-attachments/assets/f1715fce-c5f4-4b8c-8067-bbb4fae5f5f8" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-09 at 22 50 10 (5)" src="https://github.com/user-attachments/assets/845a1579-58f2-455d-99d7-bb3440e2bf75" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-09 at 22 50 10 (4)" src="https://github.com/user-attachments/assets/c5137cf1-f308-4540-a3a9-5ec3da29a33f" />
 
+
+<img width="1600" height="1200" alt="HC SKETCH (11)" src="https://github.com/user-attachments/assets/f36e0a34-76a2-4ce6-93e7-f1cdcb83c3bf" />
 <img width="1004" height="489" alt="Laptop Cooler (1)" src="https://github.com/user-attachments/assets/ce4dd238-6f11-42ef-b603-6c0cd2f35a84" />
 <img width="1004" height="489" alt="Laptop Cooler (2)" src="https://github.com/user-attachments/assets/ab4c6c34-ab2d-460f-9538-461ab1b3128f" />
 
